@@ -5,13 +5,10 @@ R in Pharma working group <br />
 May 26, 2022 <br />
 https://learn.rinpharma.com/
 
-<!-- ## Slides
 
-* HTML:
-http://schloerke.com/presentation-2022-04-27-appsilon-shinytest2/
+## Slides
 
-* PDF:
-http://schloerke.com/presentation-2022-04-27-appsilon-shinytest2/appsilon-shinytest2.pdf -->
+* Recording: https://www.youtube.com/watch?v=mh0HMPqLyhQ
 
 
 ## Resources for learning more
